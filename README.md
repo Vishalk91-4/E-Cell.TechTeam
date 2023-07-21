@@ -1,4 +1,4 @@
-## ✨ E-Cell.Tech
+## ✨ E-Cell.TechTeam
 Creating Tech Team Expansion Form
 
 <h1 align="center" >Tech Team Expansion - K Vishal</h1>
@@ -8,11 +8,11 @@ Creating Tech Team Expansion Form
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
   <br>
-  <img src="https://img.shields.io/github/repo-size/Vishalk91-4/E-Cell.Tech?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/Vishalk91-4/E-Cell.Tech" />
-  <img src="https://img.shields.io/github/last-commit/Vishalk91-4/E-Cell.Tech?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/Vishalk91-4/E-Cell.Tech?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/Vishalk91-4/E-Cell.Tech?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Vishalk91-4/E-Cell.TechTeam?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/Vishalk91-4/E-Cell.TechTeam" />
+  <img src="https://img.shields.io/github/last-commit/Vishalk91-4/E-Cell.TechTeam?style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/Vishalk91-4/E-Cell.TechTeam?style=for-the-badge" />
+    <img src="https://img.shields.io/github/contributors-anon/Vishalk91-4/E-Cell.TechTeam?style=for-the-badge" />
   </div>
 <br>
 
