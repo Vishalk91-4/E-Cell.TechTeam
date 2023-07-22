@@ -54,6 +54,17 @@ Install the dependencies
 ```bash
 npm install
 ```
+```bash
+npx create-react-app techform
+```
+
+```bash
+npm i --save dev saas firebase
+```
+
+```bash
+npm i saas --save dev 
+```
 
 Run server
 
