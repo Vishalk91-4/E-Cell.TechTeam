@@ -91,7 +91,7 @@ Visit `http://localhost:3000` in your browser.
 
 ## ✨ License
 
-The project is licensed under the [MIT License](https://github.com/Vishalk91-4/E-Cell.Tech/blob/main/LICENSE).
+The project is licensed under the [MIT License](https://github.com/Vishalk91-4/E-Cell.TechTeam/blob/main/LICENSE).
 
 <div align="center">
   <a href="#top">Back to Top</a>
